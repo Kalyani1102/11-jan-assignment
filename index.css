@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+   background-image: url(https://png.pngtree.com/back_origin_pic/03/79/58/8850269bfa4f3d6066995f5ad3417370.jpg);
+
+
+}
+
+h2{
+    background-color:rgb(131, 131, 245);
+    margin: 0px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+li{
+   list-style-type: none;
+   padding: 10px;
+}
+
+.a{
+    position: -webkit-sticky;
+    
+    position:sticky;
+    width:100%;
+    z-index:1;
+    top:0;
+}
+.b{
+    position: -webkit-sticky;
+    
+    position: sticky;
+    width:100%;
+    z-index: 2;
+    top:0;
+}
+.c{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:3;
+    top:0;
+}
+.d{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:4;
+    top:0;
+}
+.e{
+    position: -webkit-sticky;
+    position: sticky;
+    width:100%;
+    z-index:4;
+    top:0;
+}
